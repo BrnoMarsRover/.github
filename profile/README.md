@@ -1,4 +1,4 @@
-# Freya Rover Robotics
+# Brno Mars Rover
 
 Welcome to the GitHub home of our ambitious student group dedicated to rover challenge competitions!
 
